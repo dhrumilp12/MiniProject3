@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;MeanResolutionTime_min;Notes
+HasRecovered;70.0;100.0;0.167;1.000;3;3;NA;10 projects from dpate172's review of dlong37. N/A active project is a third category (no gap), not missing data. Short gaps and docs-only returns count. Post kappa uses shared final labels.
+WhyRecovered;40.0;100.0;NA;NA;6;6;NA;"10 comparisons; all six differences resolved by checking chronology and separating documented triggers from inference. Kappa is NA for free-text explanations."
+ActivityPattern;50.0;100.0;0.342;1.000;5;5;NA;"10 comparisons; full-series trends and peak spacing clarified declining, irregular, and rising patterns. Post kappa uses shared final labels."
+Currentstatus;60.0;100.0;0.286;1.000;4;4;NA;"10 comparisons; used the agreed April 1-September 30, 2025 window, resolving four date-related differences. Post kappa uses shared final labels."
+RecentThemes;20.0;100.0;NA;NA;8;8;NA;"10 comparisons; counted allowed themes within the same source-snapshot windows, with shared merge, testing, and tie rules. Kappa is NA as required by README."
